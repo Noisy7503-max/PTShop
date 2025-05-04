@@ -8,8 +8,8 @@ import aiosqlite, asyncio
 
 router = Router()
 
-ADMIN_ID = '2090971605'
-admin_ids = [2090971605, 6137325838]
+ADMIN_ID = 'YOUR_ADMIN_ID'
+admin_ids = [123456, 654321] #Replace this id
 
 class IsAdmin(BaseFilter):
     async def __call__(self, obj: TelegramObject) -> bool:
