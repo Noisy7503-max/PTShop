@@ -21,7 +21,7 @@ PTShop - это Telegram-бот, разработанный для удобно�
 
 ## Установка и запуск
 
-1. Клонируйте репозиторий: `git clone https://github.com/your_username/ptshop.git`
+1. Клонируйте репозиторий: `git clone https://github.com/Noisy7503-max/ptshop.git`
 2. Создайте виртуальное окружение: `python3 -m venv venv`
 3. Активируйте виртуальное окружение: `source venv/bin/activate` (Linux/macOS) или `venv\Scripts\activate` (Windows)
 4. Установите зависимости: `pip install -r requirements.txt`
